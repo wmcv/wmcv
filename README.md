@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm William!
 🧑🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👨🏻‍🎓 Studying [Systems Deisgn Engineering](https://uwaterloo.ca/systems-design-engineering/) at the University of Waterloo, Canada<br/>
+👨🏻‍🎓 Studying [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) at the University of Waterloo, Canada<br/>
 🎨 Hunting for new coding passion projects to bring to life<br>💭 Currently learning python deep learning!</br>
 
 # 💻 Tech Stack
