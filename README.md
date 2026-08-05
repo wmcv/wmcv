@@ -1,23 +1,25 @@
 <div align="center">
 
+<img src="./zen-bodhi-tree.png" alt="Minimal Bodhi tree illustration with an enso circle and lotus motif" width="100%" />
+
+<br/>
+
 # William McVicar
 
-**Software engineer building thoughtful products across AI, backend systems, and geospatial infrastructure.**
+Software engineer building calm, useful systems across backend infrastructure, AI, and product design.
 
-Engineering @ [Lockheed Martin](https://www.lockheedmartin.com/) · Systems Design Engineering @ [UWaterloo](https://uwaterloo.ca/systems-design-engineering/)
+Systems Design Engineering @ University of Waterloo  
+Software Developer Intern @ Lockheed Martin Canada
 
-[portfolio](https://wmcvicar.vercel.app) · [projects](https://wmcvicar.vercel.app/projects/) · [writing](https://wmcvicar.vercel.app/blog/) · [linkedin](https://www.linkedin.com/in/william-mcvicar-0531a7324/)
+<br/>
+
+[website](https://wmcvicar.me) ·
+[writing](https://wmcvicar.me/blog) ·
+[reading](https://wmcvicar.me/books) ·
+[linkedin](https://www.linkedin.com/in/william-mcvicar-0531a7324/)
+
+<br/>
+
+<sub>build with intention.</sub>
 
 </div>
-
-## selected work
-
-[**Krave**](https://kravematch.com) — location-based restaurant discovery built with FastAPI, PostGIS, H3, React, and Go.  
-[**Reddify**](https://reddify.ca) — AI content automation platform with 50+ active subscribers and $10k ARR.  
-[**NutriScan**](https://github.com/wmcv/NutriScan) — mobile-first food scanning with personalized nutrition analysis.
-
-## toolkit
-
-`Python` · `TypeScript` · `Go` · `FastAPI` · `PostgreSQL` · `PostGIS` · `Docker` · `AWS`
-
-<p align="center"><sub>build with intention.</sub></p>
