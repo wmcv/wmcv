@@ -6,8 +6,6 @@
 
 # William McVicar
 
-Software engineer building calm, useful systems across backend infrastructure, AI, and product design.
-
 Systems Design Engineering @ University of Waterloo  
 Software Developer Intern @ Lockheed Martin Canada
 
