@@ -13,7 +13,6 @@ Software Developer Intern @ Lockheed Martin Canada
 
 [website](https://wmcvicar.me) ·
 [writing](https://wmcvicar.me/blog) ·
-[reading](https://wmcvicar.me/books) ·
 [linkedin](https://www.linkedin.com/in/william-mcvicar-0531a7324/)
 
 <br/>
